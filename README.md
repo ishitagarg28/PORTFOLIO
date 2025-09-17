@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Deployed link:https://akarshsingh-portfolio.netlify.app/
+Deployed link:
 =======
 # Portfolio
 PORTFOLIO
